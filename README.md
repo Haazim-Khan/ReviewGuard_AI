@@ -293,5 +293,3 @@ Top Influential Terms:
 # 👨‍💻 Author
 
 Haazim
-M.Tech CSE
-Lovely Professional Un
