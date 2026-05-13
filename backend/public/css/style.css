@@ -1,0 +1,10 @@
+body {
+  background: #f4f7fc;
+  font-family: Arial;
+}
+
+.main-title {
+  font-size: 60px;
+  font-weight: bold;
+  color: #222;
+}
